@@ -23,3 +23,8 @@ nav a {
   text-align: center;
   margin: 0 auto;
 }
+#details div {
+  display: block;
+  float: left;
+  margin: 0 auto;
+}
