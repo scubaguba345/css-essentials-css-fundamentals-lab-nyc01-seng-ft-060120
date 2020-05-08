@@ -9,8 +9,7 @@ header {
 figure {
   text-align: center;
 }
-a.nav {
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: grey;
+p#featuredproperty {
+  width: 800px;
+  text-align: center;
 }
