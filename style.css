@@ -14,3 +14,7 @@ header {
 figure {
   text-align: center;
 }
+nav a {
+  padding: 0 10px;
+  background-color: grey;
+}
