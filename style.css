@@ -16,7 +16,7 @@ body a {
   padding-right: 10px;
   background-color: white;
 }
-p#details {
+section#details {
   display: block;
   float: left;
 }
