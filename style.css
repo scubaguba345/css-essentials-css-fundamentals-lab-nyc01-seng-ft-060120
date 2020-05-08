@@ -20,5 +20,5 @@ body a {
 }
 p#details {
   display: block;
-  
+  float: left;
 }
