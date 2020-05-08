@@ -11,12 +11,12 @@ figure {
 }
 
 }
-body a {
-  padding-left: 10px;
-  padding-right: 10px;
+nav a {
+  padding:0 10px;
   background-color: white;
+  margin: 0 auto;
 }
-id#details {
+#featured-property{
   display: block;
   float: left;
 }
