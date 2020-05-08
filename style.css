@@ -13,7 +13,7 @@ p#featured-property {
   width: 800px;
   text-align: center;
 }
-article a {
+body a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
